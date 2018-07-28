@@ -1,6 +1,6 @@
 # testRepository
 
-Данный проект содержит framework для создания и реализации API-тестов сайта onetwotrip.com
+Данный проект содержит framework для создания и реализации API-тестов
 
 Клонирование репозитория: https://github.com/OkNezV/testRepository.git
 
