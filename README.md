@@ -1,10 +1,12 @@
 # testRepository
 
-Проект тестирования rest api
+Данный проект содержит framework для создания и реализации API-тестов сайта onetwotrip.com
+
+Клонирование репозитория: https://github.com/OkNezV/testRepository.git
 
 Для запуска проекта на локальном компьютере необходимо будет установить:
 
-Intellij IDEA
+1) Intellij IDEA
 
 С официального сайта https://www.jetbrains.com/idea/ , выбрав нужную операционную систему (Windows/macOs/Linux) и версию Community (бесплатная версия) / Ultimate (бесплатно 30 дней), скачать и установить программу (установка по умолчанию).
 
